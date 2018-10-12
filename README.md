@@ -1,1 +1,2 @@
-# ufo_sightings_js
+# ufo_sightings
+UFO sightings evaluated by JS
